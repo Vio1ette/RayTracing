@@ -1,2 +1,0 @@
-E:\Course_Doc\CG\RayTracing_online\RayTracing\Debug\RayTracing.exe
-E:\Course_Doc\CG\RayTracing_online\RayTracing\Debug\RayTracing.pdb
